@@ -1,8 +1,8 @@
 # Spring
 
-![img](https://k.kakaocdn.net/dn/XDsfI/btqBZg0hYXm/J3kg9jDhNnGHCfrAEqpB91/img.png)
 
 
+<img src="https://k.kakaocdn.net/dn/XDsfI/btqBZg0hYXm/J3kg9jDhNnGHCfrAEqpB91/img.png" width="200" height="100" />
 
 ## Books 
 
